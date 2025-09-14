@@ -1,6 +1,7 @@
 [tool.poetry]
 name = "parlaygenie"
 version = "0.1.0"
+package-mode = false
 description = ""
 authors = ["Clarkbar36 <alexclark36@gmail.com>"]
 readme = "README.md"
